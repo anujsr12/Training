@@ -14,5 +14,3 @@ obj['number'] = 8874428287
 obj.score = [27,28,26,6,45]
 console.log('number\t: '+ obj.number)
 console.log('score of day2\t: '+ obj.score[1])
-delete obj
-console.log(obj)

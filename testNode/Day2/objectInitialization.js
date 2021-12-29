@@ -12,7 +12,13 @@ console.log(obj2.c)
 var c = 11
 var b = 22
 var a = 33
+
 const obj3 = {'a': a, 'b': b, 'c': c}
 console.log(obj3.a)
 console.log(obj3.b)
 console.log(obj3.c)
+
+var obj4 
+obj4 = 1
+console.log(obj4++)
+console.log(obj4)
